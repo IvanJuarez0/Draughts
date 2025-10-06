@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Draughts.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
