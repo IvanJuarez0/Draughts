@@ -3,3 +3,5 @@
 /out
 /packages
 *.vcxproj.user
+/GTest/int
+/GTest/out
