@@ -1,0 +1,3 @@
+C:\Users\Ibana\source\repos\Draughts\GTest\out\Debug\gtest.pdb
+C:\Users\Ibana\source\repos\Draughts\GTest\out\Debug\gtest_main.pdb
+C:\Users\Ibana\source\repos\Draughts\GTest\int\Debug\GTest.vcxproj.Up2Date
