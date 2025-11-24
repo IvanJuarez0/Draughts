@@ -43,6 +43,10 @@ void movePawn(int from, int to) {
 	board.at(to) = board.at(from);
 	board.at(from) = '.';
 }
+void capture(int from, int jump, int to) {
+	movePawn(from, jump);
+	movePawn(jump, to);
+}
 
 int main() {
 	printBoard();
@@ -54,6 +58,13 @@ int main() {
 	printBoard();
 }
 
+printBoard();
+currentPlayer = player2;
+capture(
+	coordsToIndex({ 1,4 });
+	coordsToIndex({ 2,3 });
+	coordsToIndex({ 3,2 }));
+)
 
 /*
 int main()
